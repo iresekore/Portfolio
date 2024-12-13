@@ -3,10 +3,8 @@ This is my data portfolio, where you can see a summary of my projects.
 
 # Guide🗺️
 - Competitions
-- Python
-- SQL
-- Tableau
-
+- Python Projects
+  
 # Competitions🥇
  |Competition|Date|Organization|Description|Outcome|
  |-----------|----|------------|-----------|-------|
@@ -17,10 +15,3 @@ This is my data portfolio, where you can see a summary of my projects.
 |-----------|----|------------|-----------|-------|
 |[NYTimes Bestsellers](https://github.com/iresekore/NYTimes-Bestsellers)|Apr 2024|Programming|Developed a book search system based on NYTimes Bestselling books database.||
 
-# SQL
-|Project|Date|Description|
-|-----------|----|-----------|
-
-# Tableau
-|Project|Date|Description|
-|-----------|----|-----------|
